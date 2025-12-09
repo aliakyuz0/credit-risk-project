@@ -27,10 +27,11 @@ Used model: **RandomForestClassifier**
 
 ## ▶️ How to Run
 
-python src/preprocess.py
-python src/train.py
-python src/evaluate.py
+- python src/preprocess.py
+- python src/train.py
+- python src/evaluate.py
 
 ## 📅 Deadline
 Project deadline: **9.12.2025**
+
 
